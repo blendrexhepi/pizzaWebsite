@@ -1,0 +1,7 @@
+{
+    "javascript.suggest.enabled": true,
+    "typescript.suggest.enabled": true,
+    "emmet.preferences": {
+        
+    }
+}
