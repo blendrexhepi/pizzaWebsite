@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizzawebsite/static/css/main.63640b22.css",
+    "main.js": "/pizzawebsite/static/js/main.c6af9f1b.js",
+    "static/js/787.2d9e76d4.chunk.js": "/pizzawebsite/static/js/787.2d9e76d4.chunk.js",
+    "static/media/margarita.jpg": "/pizzawebsite/static/media/margarita.42a8fa16b3923f6d401b.jpg",
+    "static/media/fungi.jpg": "/pizzawebsite/static/media/fungi.59b08e883ea77b2d5b59.jpg",
+    "static/media/naepolitian.jpg": "/pizzawebsite/static/media/naepolitian.3b4acd227c3a9d2c0202.jpg",
+    "static/media/pexels-roman-odintsov-4553111.jpg": "/pizzawebsite/static/media/pexels-roman-odintsov-4553111.356662ddd77e8516e51a.jpg",
+    "static/media/pexels-brett-jordan-825661.jpg": "/pizzawebsite/static/media/pexels-brett-jordan-825661.c5c5e025b4f3a40aee91.jpg",
+    "static/media/calzone.jpg": "/pizzawebsite/static/media/calzone.8c6c09db9126dca17224.jpg",
+    "static/media/pexels-polina-tankilevitch-4109111.jpg": "/pizzawebsite/static/media/pexels-polina-tankilevitch-4109111.8fab9515702731f75f49.jpg",
+    "static/media/pepperoni.jpg": "/pizzawebsite/static/media/pepperoni.c1cf652dd8679d8dd450.jpg",
+    "index.html": "/pizzawebsite/index.html",
+    "main.63640b22.css.map": "/pizzawebsite/static/css/main.63640b22.css.map",
+    "main.c6af9f1b.js.map": "/pizzawebsite/static/js/main.c6af9f1b.js.map",
+    "787.2d9e76d4.chunk.js.map": "/pizzawebsite/static/js/787.2d9e76d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63640b22.css",
+    "static/js/main.c6af9f1b.js"
+  ]
+}
